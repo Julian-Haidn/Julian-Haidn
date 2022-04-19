@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### Some Browser Games i made
+#### Some Browser Games I made
 
 - ⚡ Paper Scissors Stone Paper: [ScissorsStonePaper](https://julian-haidn.github.io/ScissorsStonePaper/)
 - 😄 Connect4: [Connect4](https://julian-haidn.github.io/Connect4/)
