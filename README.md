@@ -5,7 +5,7 @@
 
 - ⚡ Paper Scissors Stone Paper: [ScissorsStonePaper](https://julian-haidn.github.io/ScissorsStonePaper/)
 - 😄 Connect4: [Connect4](https://julian-haidn.github.io/Connect4/)
-- 🌱 Snake (unfinished):  
+- 🌱 Snake (unfinished): [Snake](https://julian-haidn.github.io/Snake/)
 - 👯 Jump and Run (unfinished): ...
 
 <!--
