@@ -2,7 +2,7 @@
 #### Some Browser Games I made
 
 - ⚡ Paper Scissors Stone Paper: [ScissorsStonePaper](https://julian-haidn.github.io/ScissorsStonePaper/)
-- 😄 Connect4: [Connect4](https://julian-haidn.github.io/Connect4/)
+- 😄 Connect4 (responsive): [Connect4](https://julian-haidn.github.io/Connect4/)
 - 🌱 Snake (unfinished): [Snake](https://julian-haidn.github.io/Snake/)
 - 👯 Jump n' Run (responsive World Generator/unfinsihed): [JumpNRun](https://julian-haidn.github.io/JumpNRun/)
 
