@@ -4,7 +4,7 @@
 - ⚡ Paper Scissors Stone Paper: [ScissorsStonePaper](https://julian-haidn.github.io/ScissorsStonePaper/)
 - 😄 Connect4: [Connect4](https://julian-haidn.github.io/Connect4/)
 - 🌱 Snake (unfinished): [Snake](https://julian-haidn.github.io/Snake/)
-- 👯 Jump n' Run (responsive World Generator) (unfinsihed): [JumpNRun](https://julian-haidn.github.io/JumpNRun/)
+- 👯 Jump n' Run (responsive World Generator/unfinsihed): [JumpNRun](https://julian-haidn.github.io/JumpNRun/)
 
 #### Visit my Minecraft Texture Pack Flatshadow
 - 💬 Flatshadow: www.flat-shadow.tk
